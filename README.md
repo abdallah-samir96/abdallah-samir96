@@ -43,3 +43,9 @@
 * Spring, Spring-Boot
 * Postman
 * Junit5
+* OpenApi
+* Developer Tools
+* Docker & Kubernates
+* Git with (Github, Gitlab)
+* Jax-RS
+
