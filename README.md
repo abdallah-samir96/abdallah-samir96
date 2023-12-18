@@ -27,7 +27,7 @@
 
 - 📧 Send me through this mail **abdallahsameer22@gmail.com.**
 
-- 📄 Know about my experiences [**Download My CV**](https://drive.google.com/file/d/1UDdT5kpMl89_fcXiTgzYKMGGuVaQ33Fp/view?usp=share_link).
+- 📄 Know about my experiences [**Download My CV**]([https://drive.google.com/file/d/1UDdT5kpMl89_fcXiTgzYKMGGuVaQ33Fp/view?usp=share_link](https://drive.google.com/file/d/1F0DdxEq__xc9viuxm-WY7SXfNpcjJJQ9/view?usp=sharing)).
 
 
 # 🧑‍💻 Languages and Tools
