@@ -12,6 +12,9 @@
 <a href="https://codepen.io/abdallah_samir/">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </a>
+<a href="hello">
+    <img src="https://www.flaticon.com/free-icon/youtube_3670147"/>
+</a>    
 </p>
 <p align="left">
 
@@ -19,11 +22,12 @@
 
 </p>
 
-- 🔭 I’m currently working on [**coral-technology**](https://www.linkedin.com/company/coral-technology-io/mycompany/).
+- 🔭 I’m currently working at [**Squadio**](https://squadio.com/).
 
-- 🌱 I’m currently learning **Spring, Vert.x, MongoDB, Elastic-Search, Redis, Jakarta, Microservices.**
+- 🌱 I’m currently working with **Spring, Vert.x, MongoDB, Elastic-Search, Redis, React, Jakarta, Microservices.**
+- 🚀 Exploring more about AI Agents, RAG, MCP, with the usage of GPT, Claude (Opus, Sonnet).
 
-- 💬 Ask me about **Java, Kotlin, Spring, SQL, C, C++.**
+- 💬 Ask me about **Java, Kotlin, Spring, SQL, React, Keycloak, OAuth2,  Security, JS, C, C++.**
 
 - 📧 Send me through this mail **abdallahsameer22@gmail.com.**
 
@@ -31,21 +35,26 @@
 
 
 # 🧑‍💻 Languages and Tools
-* Java
+* Java LTS Versions(11, 17, 21, 25)
 * Kotlin
 * Vert.x
-* Gradle, Maven
+* Gradle, Maven for automation build
 * JPA Specification(EclipseLink, Hibernate)
-* SQL(mysql, postgres, oracle)
+* SQL(mMysql, Postgres, Oracle)
 * NoSql(MongoDb, Redis, Elastic-Search)
 * Tomcat
 * C, C++, Javascript
-* Spring, Spring-Boot
-* Postman
-* Junit5
+* Spring, Spring-Boot, Spring Security, Spring DATA JPA
+* IDs like Keycloak, WSO2 IS, Handle Authentication & AUthorization, Tokens, Sessions, Claims, OAuth2, SSO
+* Hashing Algorithms(Bcrypt, Argon2, SHA-256)
+* OCI, S3 buckets to file uploadings.
+* Postman, API DOG
+* JUnit 5, Mockito, Integration Testing
+* Messaging Passing like Apache Kafka, RabbitMQ, Redis streaming
 * OpenApi
 * Developer Tools
 * Docker & Kubernates
 * Git with (Github, Gitlab)
 * Jax-RS
+* CI/CD Tools like Jenkins, GitHub Actions, GitLab CI
 
