@@ -11,10 +11,7 @@
 </a>
 <a href="https://codepen.io/abdallah_samir/">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-</a>
-<a href="hello">
-    <img src="https://www.youtube.com/favicon.ico"/>
-</a>    
+</a> 
 </p>
 <p align="left">
 
