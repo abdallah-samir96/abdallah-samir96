@@ -1,4 +1,4 @@
-<h1 align="center">Abdallah Samir 🤝, Software Engineer |Java, Spring Boot, Quarkus, Microservices, React</h1>
+<h1 align="center">Abdallah Samir 🤝, Software Engineer | Java, Spring Boot, Quarkus, Microservices & React</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/abdallah96/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </a>
 <a href="hello">
-    <img src="https://www.flaticon.com/free-icon/youtube_3670147"/>
+    <img src="https://www.youtube.com/favicon.ico"/>
 </a>    
 </p>
 <p align="left">
