@@ -20,7 +20,7 @@ Java, Kotlin, Spring Boot, Kafka, and Kubernetes.
 Skilled in building backend systems using java stack technology specialized in Healthcare, Construction, E-Commerce industries building a large scale systems that help clients to grow.
 </p>
 
-- 🔭 I’m currently working at [**Squadio**](https://squadio.com/) As A Senior Software Engineer.
+- 🔭 I’m currently working at [**Squadio**](https://squadio.com/) As A <b>Senior Software Engineer</b>.
 
 - 🌱 Working with stack technology like **Spring, Vert.x, MongoDB, Elastic-Search, Redis, React, Jakarta, Microservices.**
 - 🚀 Exploring more about AI & Agents, RAG, MCP, with the usage of GPT, Claude (Opus, Sonnet).
