@@ -15,14 +15,15 @@
 </p>
 <p align="left">
 
-<b>Disciplined</b>, task-driven professionalism, searching for new ideas and methods to achieve work goals, working with Java technologies and features of Jakarta EE, spring framework, and searching for an opportunity in Java enterprise web development career.
-
+<b>A Software Engineer</b>, experienced in designing and developing scalable microservices using
+Java, Kotlin, Spring Boot, Kafka, and Kubernetes. 
+Skilled in building backend systems using java stack technology specialized in Healthcare, Construction, E-Commerce industries building a large scale systems that help clients to grow.
 </p>
 
-- 🔭 I’m currently working at [**Squadio**](https://squadio.com/).
+- 🔭 I’m currently working at [**Squadio**](https://squadio.com/) As A Senior Software Engineer.
 
-- 🌱 I’m currently working with **Spring, Vert.x, MongoDB, Elastic-Search, Redis, React, Jakarta, Microservices.**
-- 🚀 Exploring more about AI Agents, RAG, MCP, with the usage of GPT, Claude (Opus, Sonnet).
+- 🌱 Working with stack technology like **Spring, Vert.x, MongoDB, Elastic-Search, Redis, React, Jakarta, Microservices.**
+- 🚀 Exploring more about AI & Agents, RAG, MCP, with the usage of GPT, Claude (Opus, Sonnet).
 
 - 💬 Ask me about **Java, Kotlin, Spring, SQL, React, Keycloak, OAuth2,  Security, JS, C, C++.**
 
